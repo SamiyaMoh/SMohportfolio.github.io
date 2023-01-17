@@ -1,0 +1,154 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+body {
+	background-color:  #C1E1C1;
+}
+
+
+h2 {
+  color: whitesmoke;
+}
+* {
+	font-family: 'PT Sans', sans-serif;
+}
+h6{
+  
+}
+
+/* CAROUSEL CSS */
+.carousel {
+  max-width: 500px ;
+  max-height: 800px;
+  margin-bottom: 50px;
+}
+
+/* NAVBAR CSS */
+.our-navbar {
+	background-color: #25283D;
+	font-weight: bold;
+}
+nav li {
+    display: inline-block;
+    padding-left: 220px;
+}
+
+h5 {
+	text-align: center;
+}
+
+h1 {
+	color: lightgreen;
+	font-family: Anton;
+  background-color: #25283D;
+  margin-bottom: 0px;
+}
+
+* {
+	color: black;
+}
+.header {
+	text-align: center;
+	color: black
+}
+.web-design {
+	background-color: #E8E9F3;
+}
+.Mobile {
+	background-color: #E8E9F3;
+}
+.Data {
+	background-color: #068D9D;
+}
+.Consulting {
+	background-color: #068D9D;
+}
+.services {
+	text-align: center;
+  background-color: #95D9DA !important;
+}
+.services i {
+	/*Adjust the size and position of the icon*/
+	font-size: 24px;
+	padding: 15px 10px;
+	/*Color changes the color of the icon*/
+	color: red;
+	/*Resize the container the icon is in*/
+	width: 80px;
+	height: 80px;
+	/*Changes the roundness of the container*/
+	border-radius: 50%;
+}
+.services span {
+	width: 200px;
+	display: inline-block;
+}
+
+
+
+
+/* team.html CSS */
+
+img.big {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+img.b {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+}
+.input-group {
+	margin-bottom: 10px;
+	background-color: yellow;
+}
+.contact .btn {
+	width: 100%;
+	background-color: yellow;
+}
+.contact .btn:hover {
+	background-color: yellow;
+}
+/* CLOTHES */
+
+.clothes {
+	width: 300px;
+	height: 450px;
+	border: 3px solid #FFF;
+}
+.shop {
+	color: white;
+  margin-bottom: 50px;
+}
+
+/* FOOTER CSS */
+.footercss {
+	background-color: #25283D !important;
+	margin-bottom: 0 auto !important;
+	border: 3px solid #25283D;
+	color:  #F5E050 !important;
+}
+
+.small {
+	background-color: #25283D !important;
+	margin: 0 auto;
+	border: 3px solid #25283D;
+	/* Footer height */
+}
+
+.copyright {
+	text-align: center;
+}
+
+.logo {
+  border-radius: 50%;
+  margin-left: 50px;
+
+}
+
